@@ -7,8 +7,8 @@
 ### Contacts Info
 [//]: пишем
 
-[id]: http://example.com/ "Необязательная подсказка"
-* [Mobile] (tel:+375296330177)
+[Mobile]: http://example.com/ "Необязательная подсказка"
+* [Mobile](tel:+375296330177)
 * [e-mail](mailto:olegganko@gmail.com)
 * [Telegram](https://telegram.me/olegganko)
 * [GitHub](https://github.com/olegganko)
