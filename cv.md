@@ -5,9 +5,8 @@
 
 ---
 ### Contacts Info
-[//]: # (COMMENT DOES NOT SHOW)
+[//]: пишем
 
-[//]: # (hedkfjdsfsdkjhg)
 
 * [Mobile] (tel:+375296330177)
 * [e-mail](mailto:olegganko@gmail.com)
