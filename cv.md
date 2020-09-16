@@ -5,7 +5,9 @@
 
 ---
 ### Contacts Info
-* [Mobile] (tel:+375296330177)
+* >![Mobile] (tel:+375296330177)
+* [Mobile] >!(tel:+375296330177)
+* [Mobile] (tel:>!+375296330177)
 * [e-mail](mailto:olegganko@gmail.com)
 * [Telegram](https://telegram.me/olegganko)
 * [GitHub](https://github.com/olegganko)
@@ -53,8 +55,8 @@ For the last 7 years I have been working as a freelancer: vector illustrations, 
 ### Languages
    * English 
         Until this year, I have not studied English professionally. Now I go to courses (Starter-A1). At the same time I study in the Duolingo mobile program.
-   * Русский
-   * Беларускi
+   * пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+   * пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅi
 
 ---
 
