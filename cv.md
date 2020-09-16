@@ -5,9 +5,14 @@
 
 ---
 ### Contacts Info
->>>
-This is hidden until your cursor hovers on top of it
-<<<
+```stacktrace
+Header text
+Hidden text
+```
+{cut Block title}
+Block content
+{cut}
+
 * [Mobile] (tel:+375296330177)
 * [e-mail](mailto:olegganko@gmail.com)
 * [Telegram](https://telegram.me/olegganko)
