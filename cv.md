@@ -5,6 +5,7 @@
 
 ---
 ### Contacts Info
+>!This is hidden until your cursor hovers on top of it
 * >![Mobile] (tel:+375296330177)
 * [Mobile] >!(tel:+375296330177)
 * [Mobile] (tel:>!+375296330177)
