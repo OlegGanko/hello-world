@@ -8,7 +8,7 @@
 [//]: пишем
 
 
-* [Mobile] (tel:+375296330177)
+* [Mobile] (tel:+37529 "6330177") "345"
 * [e-mail](mailto:olegganko@gmail.com)
 * [Telegram](https://telegram.me/olegganko)
 * [GitHub](https://github.com/olegganko)
