@@ -5,13 +5,9 @@
 
 ---
 ### Contacts Info
-```stacktrace
-Header text
-Hidden text
-```
-{cut Block title}
-Block content
-{cut}
+[//]: # (COMMENT DOES NOT SHOW)
+
+[//]: # (hedkfjdsfsdkjhg)
 
 * [Mobile] (tel:+375296330177)
 * [e-mail](mailto:olegganko@gmail.com)
